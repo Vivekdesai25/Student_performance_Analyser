@@ -30,18 +30,7 @@ The application allows users to:
 - Git & GitHub
 
 ## Project Structure
-student_performance_analyser/
-  ├── Notebook/
-  ├── Templates/
-  ├── artifacts/
-  ├── catboost_info/
-  ├── src/
-  │ ├── components/
-  │ └── pipeline/
-  ├── app.py
-  ├── requirements.txt
-  ├── setup.py
-  └── README.md
+<pre lang="text"><code>```text student_performance_analyser/ ├── Notebook/ ├── Templates/ ├── artifacts/ ├── catboost_info/ ├── src/ │ ├── components/ │ └── pipeline/ ├── app.py ├── requirements.txt ├── setup.py └── README.md ```</code></pre>
   
 ## Getting Started
 
