@@ -29,8 +29,6 @@ The application allows users to:
 - HTML (Jinja Templates)
 - Git & GitHub
 
-## Project Structure
-<pre lang="text"><code>```text student_performance_analyser/ ├── Notebook/ ├── Templates/ ├── artifacts/ ├── catboost_info/ ├── src/ │ ├── components/ │ └── pipeline/ ├── app.py ├── requirements.txt ├── setup.py └── README.md ```</code></pre>
   
 ## Getting Started
 
