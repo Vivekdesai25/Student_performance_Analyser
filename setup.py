@@ -1,7 +1,6 @@
 from setuptools import find_packages,setup
 from typing import List
 
-
 HYPEN_EDOT = '-e.'
 def get_requirements(file_Path:str)->List[str]:
     # this function returns the list of requirements
