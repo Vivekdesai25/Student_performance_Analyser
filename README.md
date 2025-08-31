@@ -1,5 +1,6 @@
 # Student Performance Analyser
 
+
 This project is designed to analyze and predict student performance based on various academic and socio-economic factors. It uses machine learning techniques to explore patterns and build predictive models using historical student data.
 
 ## Project Overview
