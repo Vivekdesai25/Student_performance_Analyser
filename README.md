@@ -25,7 +25,7 @@ The application allows users to:
 - Pandas, NumPy
 - Scikit-learn, CatBoost
 - Matplotlib, Seaborn
-- Flask
+- Flask 
 - HTML (Jinja Templates)
 - Git & GitHub
 
