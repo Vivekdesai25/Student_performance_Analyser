@@ -4,7 +4,6 @@ This project is designed to analyze and predict student performance based on var
 
 ## Project Overview
 
-
 The application allows users to:
 - Perform exploratory data analysis (EDA) on student datasets
 - Train machine learning models to predict performance
